@@ -2,7 +2,7 @@ from Screenshot import Screenshot_Clipping
 from selenium import webdriver
 
 ob = Screenshot_Clipping.Screenshot()
-driver = webdriver.Chrome('C:/Users/User/Downloads/aa/chromedriver')
+driver = webdriver.Chrome('C:/Users/User/Desktop/qa/chromedriver')
 url = "http://www.samsung.com/uk/mobile"
 driver.get(url)
 
