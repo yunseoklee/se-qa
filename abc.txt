@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test
+=======
+testddd
+abcd
+>>>>>>> master
